@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-Joseph
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on html, CSS and Javascript
 - 📫 How to reach me... email: emmanueljossy13@gmail.com, Twitter: EsmartOfWorld
 
