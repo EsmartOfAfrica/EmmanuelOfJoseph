@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuel Joseph
+- 👋 Hi, I’m @Emmanuel-Joseph
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on html, CSS and Javascript
